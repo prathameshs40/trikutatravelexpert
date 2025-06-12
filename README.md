@@ -1,2 +1,0 @@
-# trikutatravelexpert
-trikutatravelexpert
