@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/trikutatravelexpert/static/css/main.f4657df6.css",
-    "main.js": "/trikutatravelexpert/static/js/main.a141bfac.js",
+    "main.js": "/trikutatravelexpert/static/js/main.0c1bdf85.js",
     "static/media/img_20240222074214.jpg": "/trikutatravelexpert/static/media/img_20240222074214.18609f5bf3aefb6207e9.jpg",
     "static/media/img_20240209045129.jpg": "/trikutatravelexpert/static/media/img_20240209045129.3f77f9885b58a4f53813.jpg",
     "static/media/img_20240209044556.jpg": "/trikutatravelexpert/static/media/img_20240209044556.1aef504ae2938e0dbb6e.jpg",
@@ -74,10 +74,10 @@
     "index.html": "/trikutatravelexpert/index.html",
     "static/media/loader.svg": "/trikutatravelexpert/static/media/loader.5387cd3fad0714b11a3b56e10bc82037.svg",
     "main.f4657df6.css.map": "/trikutatravelexpert/static/css/main.f4657df6.css.map",
-    "main.a141bfac.js.map": "/trikutatravelexpert/static/js/main.a141bfac.js.map"
+    "main.0c1bdf85.js.map": "/trikutatravelexpert/static/js/main.0c1bdf85.js.map"
   },
   "entrypoints": [
     "static/css/main.f4657df6.css",
-    "static/js/main.a141bfac.js"
+    "static/js/main.0c1bdf85.js"
   ]
 }
